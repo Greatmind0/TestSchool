@@ -15,6 +15,7 @@ namespace TestSchool.Controllers
 
         public IActionResult Index()
         {
+            // Testing comments
             return View();
         }
 
